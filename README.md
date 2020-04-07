@@ -1,2 +1,2 @@
-# Dive-into-Linux
-Dive-into-Linux
+# Initial page
+
