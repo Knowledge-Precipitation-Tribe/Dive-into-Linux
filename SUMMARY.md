@@ -4,8 +4,8 @@
 * [学好Linux](xue-hao-linux.md)
 * [环境搭建](huan-jing-da-jian/README.md)
   * [云服务器](huan-jing-da-jian/yun-fu-wu-qi.md)
-  * [远程连接](huan-jing-da-jian/yuan-cheng-lian-jie.md)
   * [虚拟机](huan-jing-da-jian/xu-ni-ji.md)
+* [服务器远程连接](yuan-cheng-lian-jie.md)
 
 ## Linux文件和目录管理
 
