@@ -10,7 +10,8 @@
 ## Linux文件和目录管理
 
 * [vim](linux-wen-jian-he-mu-lu-guan-li/untitled.md)
-* [Untitled](linux-wen-jian-he-mu-lu-guan-li/untitled-1.md)
+* [上传文件](linux-wen-jian-he-mu-lu-guan-li/untitled-1.md)
+* [查找文件](linux-wen-jian-he-mu-lu-guan-li/cha-zhao-wen-jian.md)
 
 ## Linux用户和用户组管理
 
