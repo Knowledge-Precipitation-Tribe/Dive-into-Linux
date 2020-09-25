@@ -9,7 +9,7 @@
 
 ## Linux文件和目录管理
 
-* [Untitled](linux-wen-jian-he-mu-lu-guan-li/untitled.md)
+* [vim](linux-wen-jian-he-mu-lu-guan-li/untitled.md)
 * [Untitled](linux-wen-jian-he-mu-lu-guan-li/untitled-1.md)
 
 ## Linux用户和用户组管理
@@ -19,5 +19,8 @@
 ## Bash相关
 
 * [Bash](bash-xiang-guan/bash.md)
+
+---
+
 * [参考文献](can-kao-wen-xian.md)
 
