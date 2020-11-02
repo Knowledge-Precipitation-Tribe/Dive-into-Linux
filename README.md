@@ -42,3 +42,15 @@ Linux 的发行版说简单点就是将 Linux 内核与应用软件做一个打�
 | 学习 | 系统构造复杂、变化频繁，且知识、技能淘汰快，深入学习困难。 | 系统构造简单、稳定，且知识、技能传承性好，深入学习相对容易。 |
 | 软件 | 每一种特定功能可能都需要商业软件的支持，需要购买相应的授权。 | 大部分软件都可以自由获取，同样功能的软件选择较少。 |
 
+## 推荐资源
+
+{% embed url="https://cyc2018.github.io/CS-Notes/\#/notes/Linux?id=%e5%89%8d%e8%a8%80" caption="文件系统" %}
+
+{% embed url="http://c.biancheng.net/linux\_tutorial/" %}
+
+{% embed url="http://linux.vbird.org/" %}
+
+{% embed url="https://wangchujiang.com/linux-command/" %}
+
+
+

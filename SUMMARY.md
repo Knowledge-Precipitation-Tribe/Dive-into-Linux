@@ -6,16 +6,18 @@
   * [云服务器](huan-jing-da-jian/yun-fu-wu-qi.md)
   * [虚拟机](huan-jing-da-jian/xu-ni-ji.md)
 * [服务器远程连接](yuan-cheng-lian-jie.md)
+* [环境变量](huan-jing-bian-liang.md)
 
 ## Linux文件和目录管理
 
 * [vim](linux-wen-jian-he-mu-lu-guan-li/untitled.md)
 * [上传文件](linux-wen-jian-he-mu-lu-guan-li/untitled-1.md)
 * [查找文件](linux-wen-jian-he-mu-lu-guan-li/cha-zhao-wen-jian.md)
+* [文件同步](linux-wen-jian-he-mu-lu-guan-li/wen-jian-tong-bu.md)
 
 ## Linux用户和用户组管理
 
-* [Untitled](linux-yong-hu-he-yong-hu-zu-guan-li/untitled.md)
+* [查看系统登录用户](linux-yong-hu-he-yong-hu-zu-guan-li/untitled.md)
 
 ## Bash相关
 

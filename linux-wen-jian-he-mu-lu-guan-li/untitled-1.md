@@ -12,3 +12,5 @@ scp filename username@remotehost:remotedirectory
 scp test.txt root@192.168.1.10:/home/root/test/
 ```
 
+
+
