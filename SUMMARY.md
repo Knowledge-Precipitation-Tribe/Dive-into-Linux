@@ -8,12 +8,23 @@
 * [服务器远程连接](yuan-cheng-lian-jie.md)
 * [环境变量](huan-jing-bian-liang.md)
 
+## 基础知识
+
+* [命令提示符](ji-chu-zhi-shi/ming-ling-ti-shi-fu.md)
+* [目录操作命令](ji-chu-zhi-shi/mu-lu-cao-zuo-ming-ling.md)
+* [文件操作命令](ji-chu-zhi-shi/wen-jian-cao-zuo-ming-ling.md)
+
 ## Linux文件和目录管理
 
-* [vim](linux-wen-jian-he-mu-lu-guan-li/untitled.md)
+* [linux目录树](linux-wen-jian-he-mu-lu-guan-li/linux-mu-lu-shu.md)
+* [文件内容查看](linux-wen-jian-he-mu-lu-guan-li/wen-jian-nei-rong-cha-kan.md)
+* [创建文件与修改文件时间](linux-wen-jian-he-mu-lu-guan-li/chuang-jian-wen-jian-yu-xiu-gai-wen-jian-shi-jian.md)
+* [文件压缩与解压](linux-wen-jian-he-mu-lu-guan-li/wen-jian-ya-suo-yu-jie-ya.md)
+* [用户权限与命令之间的关系](linux-wen-jian-he-mu-lu-guan-li/yong-hu-quan-xian-yu-ming-ling-zhi-jian-de-guan-xi.md)
 * [上传文件](linux-wen-jian-he-mu-lu-guan-li/untitled-1.md)
 * [查找文件](linux-wen-jian-he-mu-lu-guan-li/cha-zhao-wen-jian.md)
 * [文件同步](linux-wen-jian-he-mu-lu-guan-li/wen-jian-tong-bu.md)
+* [vim](linux-wen-jian-he-mu-lu-guan-li/untitled.md)
 
 ## Linux用户和用户组管理
 
