@@ -20,6 +20,7 @@
 * [文件种类与拓展名](linux-wen-jian-he-mu-lu-guan-li/wen-jian-zhong-lei-yu-tuo-zhan-ming.md)
 * [文件内容查看](linux-wen-jian-he-mu-lu-guan-li/wen-jian-nei-rong-cha-kan.md)
 * [创建文件与修改文件时间](linux-wen-jian-he-mu-lu-guan-li/chuang-jian-wen-jian-yu-xiu-gai-wen-jian-shi-jian.md)
+* [文件隐藏属性](linux-wen-jian-he-mu-lu-guan-li/wen-jian-yin-cang-shu-xing.md)
 * [文件压缩与解压](linux-wen-jian-he-mu-lu-guan-li/wen-jian-ya-suo-yu-jie-ya.md)
 * [用户权限与命令之间的关系](linux-wen-jian-he-mu-lu-guan-li/yong-hu-quan-xian-yu-ming-ling-zhi-jian-de-guan-xi.md)
 * [改变文件属性与权限](linux-wen-jian-he-mu-lu-guan-li/gai-bian-wen-jian-shu-xing-yu-quan-xian.md)
