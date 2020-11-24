@@ -34,6 +34,11 @@
 * [用户与用户组](linux-yong-hu-he-yong-hu-zu-guan-li/yong-hu-yu-yong-hu-zu.md)
 * [查看系统登录用户](linux-yong-hu-he-yong-hu-zu-guan-li/untitled.md)
 
+## 进程
+
+* [查看进程](jin-cheng/cha-kan-jin-cheng.md)
+* [进程状态](jin-cheng/jin-cheng-zhuang-tai.md)
+
 ## Bash相关
 
 * [Bash](bash-xiang-guan/bash.md)
