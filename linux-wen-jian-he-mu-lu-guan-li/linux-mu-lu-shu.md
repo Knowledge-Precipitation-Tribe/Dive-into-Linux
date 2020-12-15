@@ -1,5 +1,7 @@
 # linux目录树
 
+![](../.gitbook/assets/image%20%2814%29.png)
+
 linux目录标准配置：FHS
 
 |  | 可分享的 | 不可分享的 |
