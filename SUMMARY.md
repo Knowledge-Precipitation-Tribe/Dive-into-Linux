@@ -43,6 +43,15 @@
 
 * [Bash](bash-xiang-guan/bash.md)
 
+## 面经
+
+* [inode](mian-jing/inode.md)
+* [linux的用户态和内核态](mian-jing/linux-de-yong-hu-tai-he-nei-he-tai.md)
+* [进程](mian-jing/jin-cheng.md)
+* [进程调度](mian-jing/jin-cheng-tiao-du.md)
+* [ls命令执行过程](mian-jing/ls-ming-ling-zhi-hang-guo-cheng.md)
+* [Unix与Linux](mian-jing/unix-yu-linux.md)
+
 ---
 
 * [参考文献](can-kao-wen-xian.md)
