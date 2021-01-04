@@ -51,6 +51,11 @@
 * [进程调度](mian-jing/jin-cheng-tiao-du.md)
 * [ls命令执行过程](mian-jing/ls-ming-ling-zhi-hang-guo-cheng.md)
 * [Unix与Linux](mian-jing/unix-yu-linux.md)
+* [Linux如何实现共享内存](mian-jing/linux-ru-he-shi-xian-gong-xiang-nei-cun.md)
+* [查询进程占用CPU命令](mian-jing/cha-xun-jin-cheng-zhan-yong-cpu-ming-ling.md)
+* [程序从开始运行到结束的过程](mian-jing/cheng-xu-cong-kai-shi-yun-hang-dao-jie-shu-de-guo-cheng.md)
+* [默认的栈大小](mian-jing/mo-ren-de-zhan-da-xiao.md)
+* [重定向](mian-jing/zhong-ding-xiang.md)
 
 ---
 
